@@ -1,4 +1,5 @@
-# Sample Website
+#                     LEARN ENOUGH Git to be Dangerous (Git Tutorials)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This is a sample website made as part of [*Learn Enough™ Git to Be
 Dangerous*](http://learnenough.com/git-tutorial), possibly the greatest
